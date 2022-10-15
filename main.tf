@@ -28,3 +28,6 @@ resource "aws_instance" "web" {
     Name = "HelloWorld"
   }
 }
+
+
+# adde an extra line to output.tf
